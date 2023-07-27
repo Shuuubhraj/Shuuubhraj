@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajput Shubhraj Singh</h1>
+<h1 align="left">Hi 👋, I'm Rajput Shubhraj Singh</h1>
 <h3 align="left">Digitally fortifying the world one byte at a time, a cybersecurity enthusiast defending the virtual realm from unseen threats and breaches.</h3>
 
 <p align="left">💬 Ask me about <strong>Cybersecurity</strong></p>
