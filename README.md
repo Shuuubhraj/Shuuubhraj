@@ -1,6 +1,5 @@
 <h1 align="left">Hello there! I'm Rajput Shubhraj Singh,</h1>
 <h3 align="left">🛡️ Guardian of Data | Shielding Confidentiality | Defeating Cyber Adversaries 💂</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left">💬 Ask me about <strong>Cybersecurity</strong></p>
 <p align="left">📫 How to reach me <strong>Shuuubhraj@gmail.com</strong></p>
 
