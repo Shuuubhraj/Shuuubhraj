@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://s3-eu-west-1.amazonaws.com/worldvectorlogologos/logos/amazon-web-services-2.svg?response-content-type=application%2Foctet-stream&response-content-disposition=attachment%3B%20filename%3D%22amazon-web-services-2.svg%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIABU4EDO27KZDOIA%2F20240620%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20240620T115634Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=4697baf681f37a30023d6d7407e3958e2b0a64521d643b6242fac388ce86a48d)" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
