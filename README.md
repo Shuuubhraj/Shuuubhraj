@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg](https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" height="40" alt="ubuntu logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
