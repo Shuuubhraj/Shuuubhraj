@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🛡️ Guardian of Data | Shielding Confidentiality | Defeating Cyber Adversaries 💂<br><br>💬 Ask me about Cybersecurity, Eithical Hacking , Networking, Cryptogrphy<br><br>📫 How to reach me Shuuubhraj@gmail.com</p>
+<p align="left">🛡️ Cybersecurity Student | B.Tech CSE (Cybersecurity) | Yahoo Top 100 Hacker 🕵️‍♂️<br><br>💬 Ask me about Cybersecurity, Ethical Hacking , Networking, Cryptography<br><br>📫 How to reach me Shuuubhraj@gmail.com</p>
 
 ###
 
